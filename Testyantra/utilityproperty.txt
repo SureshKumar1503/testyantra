@@ -1,0 +1,6 @@
+url http://localhost:8888/index.php?module=Home&action=index&parenttab=My%20Home%20Page
+username admin
+password admin
+
+Name rainaaa
+Email sureshrainapmk@gmail.com
